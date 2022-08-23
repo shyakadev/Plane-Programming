@@ -16,7 +16,6 @@ Students will also have to keep the plane in view of the camera.
 
 ---
 <br>
-<br>
 
 # Repo Gameplay: 
 https://drive.google.com/drive/folders/10KMTxbDXAJiJPUGBjzUzGrFrrzZ9z1ly?usp=sharing
